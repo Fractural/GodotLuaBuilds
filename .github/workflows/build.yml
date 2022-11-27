@@ -18,7 +18,7 @@ on:
 # SCONS_CACHE for windows must be set in the build environment
 env:
   # Used for cache key as well as for downloading the correct Godot version.
-  GODOT_BASE_VERSION: 3.5
+  GODOT_BASE_VERSION: 3.5.1
   GODOT_BASE_VERSION_STATUS: stable
   GODOT_VERSION_STATUS: custom
   GODOT_MONO_BUILD_TAG: release-5299efd # mono-6.12.0.182

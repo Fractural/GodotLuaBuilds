@@ -1,7 +1,6 @@
-# Godot Builds 🏗️
+# Godot Lua Builds 🏗️
 
 Repository that periodically builds Godot. Supports mono, all platforms, and export templates.
 
-This serves as a template for others to fork and easily automate building their own custom versions of Godot.
-
-- [godot](https://github.com/godotengine/godot)
+- [godot](https://github.com/godotengine/godot) (v3.5.1)
+- [godot lua module](https://github.com/Trey2k/lua) (v1.1-stable)
